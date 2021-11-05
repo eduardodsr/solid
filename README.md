@@ -5,13 +5,13 @@
 - O **SOLID** é um **Design Pattern** voltado para linguagens orientadas a objetos. 
 - Assim como, qualquer **Padrão de Projeto de Software** ele veio para ajudar a organizar, estruturar e otimizar seus algoritmos, fazendo com que seu código ganhe:
 
-– Credibilidade;
-– Otimização;
-– Organização;
-– Estabilidade;
-– Facilidade de entendimento;
-– Facilidade de manutenção e atualizações;
-– Preparação para reutilização de código em futuros projetos.
+    * Credibilidade;
+    * Otimização;
+    * Organização;
+    * Estabilidade;
+    * Facilidade de entendimento;
+    * Facilidade de manutenção e atualizações;
+    * Preparação para reutilização de código em futuros projetos.
 
 
 ## SOLID - Padrões de Projeto de Software
